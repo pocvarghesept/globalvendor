@@ -1,0 +1,50 @@
+.body{
+    font-family: "Montserrat", sans-serif;
+    background-color: rgb(249, 245, 241);
+}
+.brandname{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    margin: 0px;
+    padding: 0px 0px 0px 280px ;
+    color: rgb(71, 71, 71);
+}
+.secbrandname{
+    margin: 0px;
+    padding: 0px 0px 0px 325px ;
+
+}
+.navbutton{
+    border: 0px;
+    background-color: rgb(71, 71, 71);
+}
+.heroToppara{
+    font-size: x-small;
+}
+.heroButton{
+    background-color: rgb(249, 245, 241);
+    margin: 0px;
+    border: solid 1px;
+}
+.offcard{
+    background-color: rgb(249, 245, 241);
+}
+.cardPara{
+    font-weight: 400;
+    font-size: small;
+}
+.overlay{
+    top: 30%;
+    inset-inline-start: 11%;
+    border: solid 1px;
+}
+.overbutton{
+    margin: 0px;
+    border: solid 1px;
+    padding: 10px 60px 10px 60px;
+    border-color: black;
+    font-size: 16px;
+}
+.footer{
+    background-color: rgb(47, 46, 46);
+}
